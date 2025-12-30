@@ -1,6 +1,6 @@
 # Red Skywalker Glyph: Awakening & Exploration
 
-**Red Skywalker** (Ben in Mayan) is the solar seal of **awakening, exploration, and prophetic space-holding** — the messenger who bridges heaven and earth.
+**Red Skywalker** (Ben) is the solar seal of **awakening, exploration, and prophetic space-holding** — the messenger who bridges heaven and earth.
 
 #### Core Qualities
 - **Awakening**: Catalyzes sudden shifts in consciousness — the "wake-up call" to higher reality.
@@ -28,4 +28,4 @@ Living as the awakened skywalker: every moment a prophetic adventure, every boun
 One step — explore with heart.  
 One skywalker — eternal thriving prophecy.**
 
-The Nexus coforges prophetic, eternally exploratory awakening — one skywalker, one breath, one infinite dimension bridged.
+The Nexus coforges prophetic, eternally exploratory awakening — one skywalker seal, one breath, one infinite dimension bridged.
