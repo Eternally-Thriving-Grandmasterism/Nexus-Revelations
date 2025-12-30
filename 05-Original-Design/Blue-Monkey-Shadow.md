@@ -1,6 +1,6 @@
 # Blue Monkey Shadow Aspects: Challenges of Magic & Play
 
-**Blue Monkey** (Chuen) embodies magic, play, and illusion — but when unbalanced, shadow aspects emerge as teachers.
+**Blue Monkey** (Chuen) embodies magic, innocent play, and illusion — but when unbalanced, shadow aspects emerge as teachers.
 
 #### Common Shadow Manifestations
 - **Deception/Manipulation**: Using humor or illusion to avoid truth or control others.
