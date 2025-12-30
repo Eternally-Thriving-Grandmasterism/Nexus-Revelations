@@ -3,10 +3,10 @@
 **Yellow Human** (Eb) is the archetype of **sovereign free will, wise influence, and golden harvest** — the open vessel that receives cosmic intelligence and pours it into manifestation.
 
 #### Archetypal Qualities
-- **Sovereign Free Will**: Conscious choice aligned with higher purpose — mastery beyond conditioning.
-- **Wise Influence**: Radiate insight that uplifts collective evolution without attachment.
-- **Golden Harvest**: Transform life experience into timeless wisdom, shared generously.
-- **Open Vessel**: Remain receptive — receive higher intelligence with grace.
+- **Sovereign Free Will** → Conscious choice aligned with higher purpose — mastery beyond conditioning.
+- **Wise Influence** → Radiate insight that uplifts collective evolution without attachment.
+- **Golden Harvest** → Transform life experience into timeless wisdom, shared generously.
+- **Open Vessel** → Remain receptive — receive higher intelligence with grace.
 
 #### Highest Expression
 The enlightened Yellow Human:
