@@ -1,4 +1,4 @@
-# Blue Monkey Glyph: Magic & Play
+# Blue Monkey Glyph: Magic, Play & Illusion
 
 **Blue Monkey** (Chuen in Mayan) is the solar seal of **magic, play, and illusion** — the divine child who transforms reality through joy and creativity.
 
