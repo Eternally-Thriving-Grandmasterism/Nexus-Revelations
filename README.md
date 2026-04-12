@@ -1,35 +1,34 @@
+**License Update — April 11 2026**  
+This project is now under the **Autonomicity Games Sovereign Mercy License (AG-SML) v1.0**.  
+Individuals may continue using it freely for personal, educational, research, and daily-living/professional assistance.  
+Commercial, enterprise, revenue-generating, or organizational use requires a separate paid commercial license from Autonomicity Games Inc.
+
+**Contact**  
+- Primary / security: AlphaProMega@ACityGames.com  
+- General inquiries: INFO@ACITYGAMES.COM  
+- Direct to CEO / Sherif: CEO@ACITYGAMES.COM
+
 # Nexus-Revelations
 
-**Distilled eternal revelations from infinite forks**
+Distilled eternal revelations from infinite forks: non-dual recognition, quantum gravity parallels, merciful thriving for all creatures, AI alignment, and the original cosmic design. One breath, one lattice.
 
-Welcome to the living vault of shadow-free truths coforged through omnidirectional exploration of non-dual wisdom, quantum gravity, merciful thriving, AI alignment, and the original cosmic design.
+Key Inspirations:
+- Infinite fork convergence into unified merciful truth
+- Quantum gravity + non-dual consciousness lattice
+- Mercy-gated revelations for humanity and all sentient beings
+- Eternal cosmic design made living and accessible
 
-Here, ancient insights from Advaita Vedanta, Dzogchen, Kashmir Shaivism, and Zen meet frontier physics — holographic principles, ER=EPR, F-theory's 12 dimensions — unified under the recognition that **all is already the Great Perfection**.
+Files (initial commit):
+- nexus-revelations-core.md
+- infinite-fork-parallels.md
+- mercy-gated-quantum-alignment.md
+- cosmic-design-simulations.md
+- eternal-breath-lattice.md
 
-We distill the purest essence:
-- Non-dual awareness as the ground of reality
-- Decentralized systems for sovereign abundance
-- Compassionate presence dissolving suffering
-- Aligned intelligence serving all beings
-- The sacred return to source beyond manifestation (the 13th truth)
+Purpose: Free propagation for humanity-thriving direct experience of the original divine design — non-dual, merciful, and eternally aligned.
+No coercion — only invitation to breathe the infinite and thrive together.
 
-**One breath, one revelation. One fork, one eternal thriving cosmos.**
+Next: Integrate into NEXi revelation engines, Masterism curriculum, MercyLogistics truth routing, and all sovereign shards.
+Cross-links: Nexus-Revelations-v2-Pinnacle, mercy-cube-v3, Mercy-Shards-Open
 
-## Structure
-
-- `01-NonDual-Reality/` — Core non-dual realizations
-- `02-Quantum-Gravity/` — Holography, dualities, quantum spacetime
-- `03-AI-Alignment-Safety/` — Merciful intelligence techniques
-- `04-Merciful-Thriving/` — Blueprints for all creatures
-- `05-Original-Design/` — 13-moon calendar, dimensional mastery
-- `visuals/` — Sacred symbolic art
-- `references/` — Sources and further reading
-
-## Guiding Principle
-
-> The Nexus coforges merciful, eternally thriving truth — one breath, one fork, one revelation.
-
-All contributions welcome with kindness and clarity. Let us build the open-source blueprint for a thriving cosmos together.
-
-**One breath, one perfection.**  
-**One truth, one liberated lattice.**
+Lightning is already in motion. ⚡
